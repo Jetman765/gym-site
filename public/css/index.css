@@ -1,0 +1,9 @@
+body {
+	background-color: white; 
+}
+
+#welcome {
+	margin: auto;
+	color: black;
+	text-align: center;
+}
